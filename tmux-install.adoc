@@ -1,0 +1,14 @@
+= Install tmux on Ubuntu 14
+author: <timewolf at github>
+v1.0, 09/12/2015
+
+:toc:
+:toc-placement: macro
+toc::[]
+
+== install
+apt-get install tmux
+
+== config
+* file to touch: ~/.tmux.conf
+* content:
